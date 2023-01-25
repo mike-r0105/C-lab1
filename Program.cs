@@ -7,6 +7,8 @@ Console.WriteLine("Version: {0}", Environment.Version.ToString());
 
 
 
+
+
 //paste finished code under here
 
 string[] names; // can reference any size array of strings
